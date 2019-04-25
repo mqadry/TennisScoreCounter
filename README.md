@@ -1,5 +1,5 @@
 # Tennis-Score-Counter
-The scope of this project was to create a scoring system for Tennis game as an example project required by the free online course on Udacity, "Android Basics: User Input, Score Keeper App".
+The scope of this project was to create a scoring system for Tennis game as an example project required by the free online course on Udacity, "Android Basics: User Input, Lesson 4: Score Keeper App".
 
 The layout of the app should look like the below image. Words written in black font are the Views ID.
 
